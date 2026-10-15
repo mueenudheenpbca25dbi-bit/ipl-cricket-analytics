@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+git'''
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -1085,7 +1085,7 @@ else:
 
     # =====================================
 #
-=======
+'''
 """IPL Analytics - teams, venues and match results (2008 onwards).
 
 Run:  streamlit run app.py
@@ -1742,4 +1742,3 @@ with tab_exp:
     st.caption(f"{len(out):,} matches")
     st.dataframe(out, hide_index=True, width="stretch", height=460)
     st.download_button("Download as CSV", out.to_csv(index=False).encode(), "ipl_matches_filtered.csv", "text/csv")
-56fad71 (HI)
