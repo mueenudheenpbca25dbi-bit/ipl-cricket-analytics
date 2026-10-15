@@ -20,7 +20,7 @@ debugpy==1.8.21
 defusedxml==0.7.1
 executing==2.2.1
 fastjsonschema==2.22.2
-fonttools==4.64.0
+fonttools==4.64
 formulaic==1.2.2
 fqdn==1.5.1
 h11==0.16.0
@@ -83,7 +83,6 @@ Pygments==2.21.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 python-json-logger==4.2.0
-pywinpty==3.0.5
 PyYAML==6.0.3
 pyzmq==27.2.0
 referencing==0.37.0
@@ -114,3 +113,6 @@ webencodings==0.6.1
 websocket-client==1.9.2
 widgetsnbextension==4.0.16
 wrapt==2.4.0
+streamlit
+pandas
+plotly
